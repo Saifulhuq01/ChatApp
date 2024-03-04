@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577960080656",
+    "project_id": "chatapp-ab53c",
+    "storage_bucket": "chatapp-ab53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577960080656:android:d2bec8049c8035f118a195",
+        "android_client_info": {
+          "package_name": "eu.tutorials.chatroomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMJ7T73Omkxhz3c-yepdaKTyW7RyfxZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
